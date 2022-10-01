@@ -1,4 +1,4 @@
-nav {
+/* nav {
     text-align: center;
 }
 
@@ -7,7 +7,6 @@ button {
 }
 
 body {
-    /* margin-left: 20px; */
     background-image: url(./images/html_BG2.jpg);
     background-size: cover;
     text-align: center;
@@ -47,9 +46,4 @@ p.anime, p.game {
  img.game {
     height: 400px;
     width: 700px;
- }
-
- /* p.game {
-    font-weight: bolder;
-    font-size: larger;
  } */
