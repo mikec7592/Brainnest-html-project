@@ -1,0 +1,55 @@
+nav {
+    text-align: center;
+}
+
+button {
+    background-color: rgba(0, 0, 0, 0.77);
+}
+
+body {
+    /* margin-left: 20px; */
+    background-image: url(./images/html_BG2.jpg);
+    background-size: cover;
+    text-align: center;
+}
+
+ul, ol {
+    list-style: none;
+}
+
+li {
+    align-content: center;
+}
+
+img.home {
+    height: 400px;
+    width: 900px;
+}
+
+p.home {
+    font-size: larger;
+}
+
+img.anime {
+    height: 150px;
+    width: 300px;
+    border: solid black 5px;
+}
+
+p.anime, p.game {
+    font-weight: bolder;
+    font-size: larger;
+}
+ p.intro {
+    align-content: center;
+ }
+
+ img.game {
+    height: 400px;
+    width: 700px;
+ }
+
+ /* p.game {
+    font-weight: bolder;
+    font-size: larger;
+ } */
